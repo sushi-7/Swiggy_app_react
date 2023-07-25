@@ -1,2 +1,1 @@
-# Food_app_react
-This is a landing page of a food app which is created using React.js &amp; Node.js.
+A simple landing page - first designed in figma and then coded in React. Hope you like it.
